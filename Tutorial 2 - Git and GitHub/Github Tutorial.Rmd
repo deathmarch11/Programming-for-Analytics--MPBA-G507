@@ -10,7 +10,7 @@ date: "9/20/2021"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
+```{{r setup, include=FALSE}}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ## What is a Version Control System?
@@ -209,6 +209,10 @@ Click on the Fork option at the top-right of the page.You will be navigated to a
  - https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
  - https://docs.github.com/en
  
+```{r}
+iris
+```
 
+ 
 
 
